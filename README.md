@@ -6,7 +6,7 @@
 </p>
   
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=5000&pause=1500&lines=Hi+Guys!+👋;+I'm+Justin+Pogi!+😍;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=5000&pause=1500&lines=Hi+Guys!+👋;+I'm+Justin!;" />
 </h1>
 
 ### I am a 3rd year College student in Bulacan State University
