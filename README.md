@@ -27,10 +27,6 @@
   <a href="https://www.facebook.com/share/1G4Sawj9R1/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
-  <a href="https://x.com/jstnblyt" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
 </div>
 
 <hr>
